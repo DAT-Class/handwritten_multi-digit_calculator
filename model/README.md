@@ -7,7 +7,7 @@
 
 2.**데이터를 행렬로 넘겨줄건지 이미지로 넘겨줄건지도 상의가 필요할 듯 하다.**
 
-## calculate
+## calculation
 Testing1
 ![test_result.PNG](./test/test_result.PNG)
 <br></br>
